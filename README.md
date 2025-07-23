@@ -74,4 +74,4 @@ To deliver a centralized and visual dashboard that:
 • 🧑‍💼 Sales Incentives – Evaluate and reward high-performing sales reps.
 
 6. Screenshots / Demos
-✅ Snapshot of the Dashboard – 1[dashboard Preview](https://github.com/AyushP3233/Chocolate-Sales-Dashboard/blob/main/Snapshot%20od%20the%20Dashboard..png)
+✅ Snapshot of the Dashboard – ![dashboard Preview](https://github.com/AyushP3233/Chocolate-Sales-Dashboard/blob/main/Snapshot%20od%20the%20Dashboard..png)
